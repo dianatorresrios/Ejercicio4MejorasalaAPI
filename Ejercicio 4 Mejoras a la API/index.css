@@ -1,0 +1,8 @@
+project/controllers/
+        ticketController.js
+    models/
+        Ticket.js
+        Article.js
+    routes/
+        ticketRoutes.js
+    server.js
